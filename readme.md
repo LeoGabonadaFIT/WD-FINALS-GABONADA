@@ -63,10 +63,10 @@ Guiding Question:
 - Whats the purpose
 - What are key components
 - What technology used and how it is used
-- The project is for finals showcasing resume like info and recent works
-- Purpose is to create a website that will also be our developer's resume
-- Key components are Multipage, CSS styles and effects, JS effects, gallery page, and use of cards.
-- Technologies used are HTML, CSS, JS.
+- The project is for finals showcasing resume like info and recent works with 5 pages
+ Purpose is to create a website that will also be our developer's resume
+ Key components are Multipage, CSS styles and effects, JS effects, gallery page, and use of cards.
+ Technologies used are HTML, CSS, JS.
 ### Key Components
 <!-- TODO: List of Key Components -->
 <!-- The following are just sample -->
