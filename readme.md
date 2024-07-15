@@ -63,13 +63,18 @@ Guiding Question:
 - Whats the purpose
 - What are key components
 - What technology used and how it is used
-
+-The project is for finals showcasing resume like info and recent works
+-Purpose is to create a website that will also be our developer's resume
+-Key components are Multipage, CSS styles and effects, JS effects, gallery page, and use of cards.
+-Technologies used are HTML, CSS, JS.
 ### Key Components
 <!-- TODO: List of Key Components -->
 <!-- The following are just sample -->
-- MultiPage Website/Single Page Website
-- Parallax transition
-- Transactional
+- Multipage
+- CSS styles and effects
+- JS effects
+- Gallery page
+- Cards
 
 ### Technology
 <!-- TODO: List of Technology Used -->
@@ -116,4 +121,6 @@ WD-ProjectName
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+| W3scools HTML | HTML guides and techniques | https://www.w3schools.com/html/ |
+| W3scools CSS | CSS guides and techniques | https://www.w3schools.com/w3css/defaulT.asp |
+| W3scools JS | JS guides and techniques | https://www.w3schools.com/js/ |
